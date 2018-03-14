@@ -1,2 +1,2 @@
 # graphql-react-component
-Create React component from a GraphQL query
+Create React components from a GraphQL query
